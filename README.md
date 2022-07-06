@@ -11,12 +11,24 @@ We start with examples from using Facebook as a way to recruit survey respondent
 
 ### Exercise
 
-Six outcomes:
+There are six outcome variables: 
 
-- 1. No. total contacts (count variable): cnt_count_30
-- 2. No. contacts at work (count variable): cnt_count_w_30
-- 3. No. contacts in the general community (count variable): cnt_count_gc_30
-- 4. Wearing a face mask (dummy variable): worn_face_mask
-- 5. Threat to the world, to the country or to the local community (0-1 variable): threat_community_q
-- 6. Threat to oneself or to the family (0-1 variable): threat_personal_q
+- No. total contacts (count variable): cnt_count_30
+- No. contacts at work (count variable): cnt_count_w_30
+- No. contacts in the general community (count variable): cnt_count_gc_30
+- Wearing a face mask (dummy variable): worn_face_mask
+- Threat to the world, to the country or to the local community (0-1 variable): threat_community_q
+- Threat to oneself or to the family (0-1 variable): threat_personal_q
+
+Each group should use a different dependent variable. The goal of the exercise it to run a Bayesian MRP. 
+
+The data for the exercise come from a Facebook survey. The sample is a shuffled data from the Covid-19 Health Behavior Survey (CHBS) for Germany. The data were collected during a week between March and April 2020. The sample contains 1,292 observations and 14 variables. 
+
+
+More information on the data: 
+
+- https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00270-1
+- https://bmjopen.bmj.com/content/bmjopen/11/10/e050651.full.pdf
+- https://www.jmir.org/2020/12/e20653/
+
 
