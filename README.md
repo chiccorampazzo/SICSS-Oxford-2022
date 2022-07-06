@@ -1,6 +1,6 @@
 # SICSS-Oxford-2022
 
-This is a lecture on "Online Survey and Post-Stratification" for SICSS-Oxford 2022. It is inspired from previous lectures prepared with Dr. Emanuele Del Fava. 
+This is a lecture on "Online Survey and Post-Stratification" for SICSS-Oxford 2022 organised by Francesco Rampazzo and Maksim Zubok. It is inspired from previous lectures prepared with and by Dr. Emanuele Del Fava. 
 
 ## Online Surveys
 
@@ -8,6 +8,8 @@ We start with examples from using Facebook as a way to recruit survey respondent
 
 
 ## Post-Stratification
+
+We introduce post-stratification. Advatanges and disadvantages of multilevel regression with post-stratification (MRP) are discussed. 
 
 ### Exercise
 
