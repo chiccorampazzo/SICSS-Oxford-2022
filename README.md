@@ -24,8 +24,13 @@ Each group should use a different dependent variable. The goal of the exercise i
 
 The data for the exercise come from a Facebook survey. The sample is a shuffled data from the Covid-19 Health Behavior Survey (CHBS) for Germany. The data were collected during a week between March and April 2020. The sample contains 1,292 observations and 14 variables. 
 
+Other data sets: 
 
-More information on the data: 
+- DESTATIS 2019 data by age group, sex, and region (DESTATIS 2019), with population aged 18 years old or more
+- European Social Survey (ESS) Data by age group, sex, region, education and HH size (ESS 9, 2018), data on population aged 18 years old or more
+
+
+More information on the Facebook survey data: 
 
 - https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00270-1
 - https://bmjopen.bmj.com/content/bmjopen/11/10/e050651.full.pdf
